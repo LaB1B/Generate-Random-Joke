@@ -1,4 +1,4 @@
-    # Generate A Random Joke For You
+# Generate A Random Joke For You
 
 ##### This Project is available at [RandomJokes.com](https://www.LaB1B.github.io/Generate-Random-Joke)
 

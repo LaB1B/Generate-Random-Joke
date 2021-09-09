@@ -2,7 +2,7 @@
 
 ##### This Project is available at [RandomJokes.com](https://www.LaB1B.github.io/Generate-Random-Joke)
 
-![caption](Readme.webm)
+![caption](Joke.webp)
 
 ## Dependencies
 

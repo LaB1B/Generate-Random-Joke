@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Generate-Random-Joke/static/css/main.69efb7fc.chunk.css",
+    "main.js": "/Generate-Random-Joke/static/js/main.9a755161.chunk.js",
+    "main.js.map": "/Generate-Random-Joke/static/js/main.9a755161.chunk.js.map",
+    "runtime-main.js": "/Generate-Random-Joke/static/js/runtime-main.05a3b26e.js",
+    "runtime-main.js.map": "/Generate-Random-Joke/static/js/runtime-main.05a3b26e.js.map",
+    "static/css/2.df93ccea.chunk.css": "/Generate-Random-Joke/static/css/2.df93ccea.chunk.css",
+    "static/js/2.dab13b4d.chunk.js": "/Generate-Random-Joke/static/js/2.dab13b4d.chunk.js",
+    "static/js/2.dab13b4d.chunk.js.map": "/Generate-Random-Joke/static/js/2.dab13b4d.chunk.js.map",
+    "static/js/3.81250879.chunk.js": "/Generate-Random-Joke/static/js/3.81250879.chunk.js",
+    "static/js/3.81250879.chunk.js.map": "/Generate-Random-Joke/static/js/3.81250879.chunk.js.map",
+    "index.html": "/Generate-Random-Joke/index.html",
+    "static/css/2.df93ccea.chunk.css.map": "/Generate-Random-Joke/static/css/2.df93ccea.chunk.css.map",
+    "static/css/main.69efb7fc.chunk.css.map": "/Generate-Random-Joke/static/css/main.69efb7fc.chunk.css.map",
+    "static/js/2.dab13b4d.chunk.js.LICENSE.txt": "/Generate-Random-Joke/static/js/2.dab13b4d.chunk.js.LICENSE.txt",
+    "static/media/Band Octopus.gif": "/Generate-Random-Joke/static/media/Band Octopus.6108f95a.gif",
+    "static/media/Cute Sushi.gif": "/Generate-Random-Joke/static/media/Cute Sushi.f78dbfbe.gif",
+    "static/media/Dancin_sumo.gif": "/Generate-Random-Joke/static/media/Dancin_sumo.91b706e2.gif",
+    "static/media/Icecream_jumping.gif": "/Generate-Random-Joke/static/media/Icecream_jumping.1404600d.gif",
+    "static/media/Robot_Deal_with_it.gif": "/Generate-Random-Joke/static/media/Robot_Deal_with_it.60c68112.gif",
+    "static/media/Robot_dancin.gif": "/Generate-Random-Joke/static/media/Robot_dancin.aa62431e.gif",
+    "static/media/Rock_orange.gif": "/Generate-Random-Joke/static/media/Rock_orange.63e685dc.gif",
+    "static/media/telivision_robot_dancin.gif": "/Generate-Random-Joke/static/media/telivision_robot_dancin.8cc44901.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05a3b26e.js",
+    "static/css/2.df93ccea.chunk.css",
+    "static/js/2.dab13b4d.chunk.js",
+    "static/css/main.69efb7fc.chunk.css",
+    "static/js/main.9a755161.chunk.js"
+  ]
+}

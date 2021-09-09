@@ -37,7 +37,7 @@ const gif = [
     button: "warning",
   },
   {
-    name: "Robot Deal",
+    name: "Robot Deal with it", // aka My favourite :D
     color: "#F89A47",
     path: "Robot_Deal_with_it.gif",
     button: "secondary",

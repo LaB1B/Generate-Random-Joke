@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+.theme {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+body {
+  overflow: hidden;
+  font-family: Raleway , sans-serif;
+}
+
+.Jokes {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+img {
+  margin-top: -50px;
+}
+.setup {
+  font-family: Raleway , sans-serif;
+
+}
+
+.punchline {
+  margin-top: 6px;
+  opacity: .8;
+  font-size: 1.2rem;
+  font-family: cursive;
+}
+
+.sideNote {
+  position: absolute;
+  top: 0;
+  font-size: 1.2rem;
+}

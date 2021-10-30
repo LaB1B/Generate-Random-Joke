@@ -5,6 +5,8 @@
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 [![made-with-javascript](https://img.shields.io/badge/Library%20used-React-blue.svg)](https://reactjs.org/)
 [![made-with-javascript](https://img.shields.io/badge/Published%20-gh%20pages-brown.svg)](https://reactjs.org/)
+[![made-with-javascript](https://img.shields.io/badge/API%20Used-True-yellow.svg)](https://generatejoke.herokuapp.com/api/jokes)
+
 
 
 ##### This Project is available at [RandomJokes.com](https://lab1b.github.io/Generate-Random-Joke/)

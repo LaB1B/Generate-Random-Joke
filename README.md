@@ -1,5 +1,12 @@
 # Generate A Random Joke For You
 
+[![Website shields.io](https://img.shields.io/website-up-down-darkgreen-red/http/shields.io.svg)](https://lab1b.github.io/Generate-Random-Joke/)
+[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+[![made-with-javascript](https://img.shields.io/badge/Library%20used-React-blue.svg)](https://reactjs.org/)
+[![made-with-javascript](https://img.shields.io/badge/Published%20-gh%20pages-brown.svg)](https://reactjs.org/)
+
+
 ##### This Project is available at [RandomJokes.com](https://lab1b.github.io/Generate-Random-Joke/)
 
 ![caption](Joke.webp)
